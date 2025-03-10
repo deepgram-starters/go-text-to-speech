@@ -1,4 +1,6 @@
-# Text-to-Speech Starter (Go)
+# Go Text-to-Speech Starter
+
+[![Discord](https://dcbadge.vercel.app/api/server/xWRaCDBtW4?style=flat)](https://discord.gg/xWRaCDBtW4)
 
 This example app demonstrates how to use the Deepgram Text-to-Speech API with Go.
 
@@ -6,7 +8,7 @@ This example app demonstrates how to use the Deepgram Text-to-Speech API with Go
 
 ## What is Deepgram?
 
-[Deepgram](https://deepgram.com/) is a voice AI company providing speech-to-text and language understanding capabilities to make data readable and actionable by human or machines.
+[Deepgram’s](https://deepgram.com/) voice AI platform provides APIs for speech-to-text, text-to-speech, and full speech-to-speech voice agents. Over 200,000+ developers use Deepgram to build voice AI products and features.
 
 ## Sign-up to Deepgram
 
@@ -72,7 +74,7 @@ If you have found a bug or if you have a feature request, please report them at 
 
 We love to hear from you so if you have questions, comments or find a bug in the project, let us know! You can either:
 
-- [Open an issue in this repository](https://github.com/deepgram-starters/live-node-starter/issues/new)
+- [Open an issue in this repository](https://github.com/deepgram-starters/go-text-to-speech/issues/new)
 - [Join the Deepgram Github Discussions Community](https://github.com/orgs/deepgram/discussions)
 - [Join the Deepgram Discord Community](https://discord.gg/xWRaCDBtW4)
 
