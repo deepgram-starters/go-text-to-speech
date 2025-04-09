@@ -2,8 +2,9 @@ module github.com/deepgram-starters/text-to-speech-starter-go
 
 go 1.20
 
+require github.com/deepgram/deepgram-go-sdk v1.2.0
+
 require (
-	github.com/deepgram/deepgram-go-sdk v1.2.0 // indirect
 	github.com/dvonthenen/websocket v1.5.1-dyv.2 // indirect
 	github.com/fatih/color v1.15.0 // indirect
 	github.com/go-logr/logr v1.3.0 // indirect
