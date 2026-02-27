@@ -1,3 +1,29 @@
 # dotenv environment variables file
 .env
+
+# Go binary
+go-text-to-speech
+
+# Go build cache
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS files
 .DS_Store
+Thumbs.db
+
+# Frontend build artifacts
+frontend/dist/
+frontend/node_modules/
